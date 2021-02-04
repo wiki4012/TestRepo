@@ -1,3 +1,4 @@
 RemoteFile is a text file on git remote in testRepo.
 Change1 on RemoteFile.
 Change2 on RemoteFile.
+Change3 on RemoteFile.
